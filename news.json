@@ -1,0 +1,379 @@
+{
+  "_type": "News",
+  "readLink": "https://api.cognitive.microsoft.com/api/v7/news/search?q=CryptoCurrency",
+  "queryContext": {
+    "_type": "QueryContext",
+    "originalQuery": "CryptoCurrency",
+    "adultIntent": false
+  },
+  "totalEstimatedMatches": 38,
+  "sort": [
+    {
+      "_type": "SortValue",
+      "name": "Best match",
+      "id": "relevance",
+      "isSelected": true,
+      "url": "https://api.cognitive.microsoft.com/api/v7/news/search?q=CryptoCurrency"
+    },
+    {
+      "_type": "SortValue",
+      "name": "Most recent",
+      "id": "date",
+      "isSelected": false,
+      "url": "https://api.cognitive.microsoft.com/api/v7/news/search?q=CryptoCurrency&sortby=date"
+    }
+  ],
+  "value": [
+    {
+      "_type": "NewsArticle",
+      "name": "Cryptocurrency-funded groups called DAOs are becoming charities – here are some issues to watch",
+      "url": "https://news.yahoo.com/cryptocurrency-funded-groups-called-daos-130806398.html",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https://www.bing.com/th?id=OVFT.o88Sw8pE9pcUoesTw8PQES&pid=News",
+          "width": 700,
+          "height": 400
+        }
+      },
+      "description": "Cryptocurrency is becoming a more familiar way to pay for things. One option is as part of a crowd, through a decentralized autonomous organization. In this relatively new kind of group, also called a DAO, decisions and choices are governed by holders of ...",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Yahoo News"
+        }
+      ],
+      "datePublished": "2022-02-04T13:43:00.0000000Z"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Coinbase partners with TurboTax to let you receive tax refunds in cryptocurrency",
+      "url": "https://sg.finance.yahoo.com/news/coinbase-turbotax-tax-refunds-cryptocurrency-115551748.html",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https://www.bing.com/th?id=OVFT.kjqv1bSVJwHt_s8jjV9ZOC&pid=News",
+          "width": 700,
+          "height": 466
+        }
+      },
+      "description": "The money can either be deposited in USD or be sent to your account already converted to any of the 100 types of cryptocurrency available. Coinbase says the choices include stablecoins that are pegged to a real currency and fluctuate much less than typical ...",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Yahoo Finance"
+        }
+      ],
+      "datePublished": "2022-02-04T12:54:00.0000000Z"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Cryptocurrency prices today surge as Bitcoin, dogecoin, Solana, other coins gain",
+      "url": "https://www.livemint.com/market/cryptocurrency/cryptocurrency-prices-today-gain-check-bitcoin-dogecoin-solana-cardano-latest-rates-11643946285419.html",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https://www.bing.com/th?id=OVFT.pBpXUPJoHJdhm-Vz6rQh9S&pid=News",
+          "width": 600,
+          "height": 338
+        }
+      },
+      "description": "Cryptocurrency prices today gained with Bitcoin trading above the $37,000 mark. The world's largest and most popular digital token was up over 1.3% at $37,364, however, is down 19% in 2022 (year-to-date or YTD) so far. Meanwhile, the global cryptocurrency ...",
+      "about": [
+        {
+          "_type": "Thing",
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/2d95ee9c-a8a0-d6fa-69b7-f6d996f0c946",
+          "name": "Bitcoin"
+        },
+        {
+          "_type": "Thing",
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/cb05df92-e5d9-00a3-1240-9a493f4bdeef",
+          "name": "Gain"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Mint"
+        }
+      ],
+      "datePublished": "2022-02-04T09:43:00.0000000Z"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Top cryptocurrency prices today: Bitcoin, Terra gain up to 5%; Dogecoin slips",
+      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/top-cryptocurrency-prices-today-bitcoin-terra-gain-up-to-5-dogecoin-slips/articleshow/89336974.cms",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https://www.bing.com/th?id=OVFT.zjxUHRhrL_315-QK3BRPRy&pid=News",
+          "width": 700,
+          "height": 379
+        }
+      },
+      "description": "Until late Thursday, the hashtag #reducecryptotax was trending on Twitter. New Delhi: The cryptocurrency market was trading mixed on Friday, with marginal gains in top behemoths and altcoins while selling was visible in the lower deck of the crypto cart.",
+      "about": [
+        {
+          "_type": "Thing",
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/2d95ee9c-a8a0-d6fa-69b7-f6d996f0c946",
+          "name": "Bitcoin"
+        },
+        {
+          "_type": "Thing",
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/6ddb3372-4801-5567-321e-e8a53bd774a4",
+          "name": "Earth"
+        },
+        {
+          "_type": "Thing",
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/cb05df92-e5d9-00a3-1240-9a493f4bdeef",
+          "name": "Gain"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Indiatimes"
+        }
+      ],
+      "datePublished": "2022-02-04T09:36:00.0000000Z"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Cryptocurrency Can Be Banned, Regulated Or Just Taxed, Says Finance Secretary",
+      "url": "https://www.outlookindia.com/business/cryptocurrency-can-be-banned-regulated-or-just-taxed-says-finance-secretary-news-78590",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https://www.bing.com/th?id=OVFT.3U85_CWGQTA6pON3ipbgCy&pid=News",
+          "width": 700,
+          "height": 393
+        }
+      },
+      "description": "Right now, there is ambiguity in its taxation because it is a new kind of asset. If I am dealing in a cryptocurrency, should it be taxed as business income? If I am a CoinSwitch Kuber, maybe my income is business income. But, if I am just an investor who ...",
+      "about": [
+        {
+          "_type": "Thing",
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/4adf95ad-f2e5-e0cf-8b75-17fe61e4c8f9",
+          "name": "Finance Secretary"
+        },
+        {
+          "_type": "Thing",
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/9dd49936-bcb7-56ac-d769-f94d457bf532",
+          "name": "Tax"
+        },
+        {
+          "_type": "Thing",
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/788e18c4-93c8-ee6c-a331-fbb3886b5d50",
+          "name": "Ban"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Outlookindia"
+        }
+      ],
+      "datePublished": "2022-02-04T12:24:00.0000000Z"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Japanese Trading House Mitsui to Launch Gold-Linked Cryptocurrency: Report",
+      "url": "https://sg.news.yahoo.com/japanese-trading-house-mitsui-launch-111603633.html",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https://www.bing.com/th?id=OVFT.RkNd25BrFLq_ggg3OV6dvC&pid=News",
+          "width": 700,
+          "height": 525
+        }
+      },
+      "description": "Japanese trading house Mitsui & Co. plans to launch a cryptocurrency linked to gold prices as early as this month, Nikkei Asia reported on Friday. The token, dubbed ZipangCoin (ZPG), will be sold to retail investors and will be linked to the price of gold ...",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Yahoo News Singapore"
+        }
+      ],
+      "datePublished": "2022-02-04T13:47:00.0000000Z"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Cryptocurrency and Terrorist Financing in Asia",
+      "url": "https://thediplomat.com/2022/02/cryptocurrency-and-terrorist-financing-in-asia/",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https://www.bing.com/th?id=OVFT.Jl-HPOQMF-wLqAQxfCMv_i&pid=News",
+          "width": 600,
+          "height": 400
+        }
+      },
+      "description": "Cryptocurrency, or crypto, is viewed by many as the future of financial transactions. While the rise and further development of crypto are widely celebrated, speculations about its traceability ...",
+      "about": [
+        {
+          "_type": "Thing",
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/5288e6b2-094a-9e72-d584-2ccbc1c2eb88",
+          "name": "Asia"
+        },
+        {
+          "_type": "Thing",
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/f53ef766-ad5b-8063-1243-613a86728161",
+          "name": "The Diplomat"
+        },
+        {
+          "_type": "Thing",
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/d3755e5e-1128-78a7-72dc-7e1d8cd99d48",
+          "name": "Terrorism financing"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "The Diplomat"
+        }
+      ],
+      "datePublished": "2022-02-04T13:34:00.0000000Z"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Cloud9 partners with cryptocurrency company Blockchain.com",
+      "url": "https://esportsinsider.com/2022/02/cloud9-cryptocurrency-blockchain/",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https://www.bing.com/th?id=OVFT.P2AA540JmausYJnKeo3lzy&pid=News",
+          "width": 700,
+          "height": 393
+        }
+      },
+      "description": "North American esports organisation Cloud9 has announced a partnership with cryptocurrency financial services company Blockchain.com. As part of the multi-year deal, Blockchain.com will gain logo placement on all league-sanctioned team jerseys and across ...",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "esportsinsider"
+        }
+      ],
+      "datePublished": "2022-02-04T14:11:00.0000000Z"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Japan: Gold Pegged Cryptocurrency ZPG To Be Issued This Month",
+      "url": "https://www.fxempire.com/news/article/japan-gold-pegged-cryptocurrency-to-be-issued-this-month-888328",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https://www.bing.com/th?id=OVFT.ZFm5FtivM82fV0s2_3xe9S&pid=News",
+          "width": 600,
+          "height": 400
+        }
+      },
+      "description": "The digital currency known as ZipangCoin is going to be linked to gold’s market prices and sold through cryptocurrency exchanges to investors. While stablecoins are known for their stability, cryptocurrencies are feared for their volatility. Sadly there ...",
+      "about": [
+        {
+          "_type": "Thing",
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/130d0438-fafb-cd2d-1a9e-1dd9c5aa87a9",
+          "name": "Japan"
+        },
+        {
+          "_type": "Thing",
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/4d57f5bf-e513-467a-90e6-b18a96600e37",
+          "name": "Cryptocurrency"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "FXEmpire.com"
+        }
+      ],
+      "datePublished": "2022-02-04T11:55:00.0000000Z"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Jackpot! New cryptocurrency worldwide lottery format could 'dwarf Euromillions'",
+      "url": "https://www.express.co.uk/finance/city/1561032/cryptocurrency-news-national-lottery-lucky-block-latest",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https://www.bing.com/th?id=OVFT.sNBTkxR68vx4ZxD7uKSZli&pid=News",
+          "width": 700,
+          "height": 415
+        }
+      },
+      "description": "We use your sign-up to provide content in ways you've consented to and to improve our understanding of you. This may include adverts from us and 3rd parties based on our understanding. You can unsubscribe at any time. More info Blockchains including ...",
+      "about": [
+        {
+          "_type": "Thing",
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/a77fc12b-772e-4804-268d-9febd6126ab3",
+          "name": "Daily Express"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Daily Express"
+        }
+      ],
+      "datePublished": "2022-02-04T14:07:00.0000000Z"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Are Cryptocurrency Exchanges Overvalued?",
+      "url": "https://www.financemagnates.com/cryptocurrency/are-cryptocurrency-exchanges-overvalued/",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https://www.bing.com/th?id=OVFT.aG3INcuVRBZBVxRcIhQfEi&pid=News",
+          "width": 700,
+          "height": 388
+        }
+      },
+      "description": "Cryptocurrency prices move both up and down, but one set of companies always profits: crypto exchanges. These trading platforms have also attracted the attention of big pocket investors and venture capitals and are receiving astronomical sums from them at ...",
+      "about": [
+        {
+          "_type": "Thing",
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/4d57f5bf-e513-467a-90e6-b18a96600e37",
+          "name": "Cryptocurrency"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Finance Magnates"
+        }
+      ],
+      "datePublished": "2022-02-04T13:10:00.0000000Z"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Here's My Top Cryptocurrency to Buy in February",
+      "url": "https://www.nasdaq.com/articles/heres-my-top-cryptocurrency-to-buy-in-february-0?time=1643973001",
+      "description": "Metaverse token The Sandbox (CRYPTO: SAND) fits the bill -- and it's my top cryptocurrency to buy in February. While the concept is far from fully developed, the metaverse could be defined as a vast array of interconnected virtual worlds that continue existing and operating regardless of who is or is not accessing them.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Nasdaq",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https://www.bing.com/th?id=ODF.unJQfw1X6GLI-H7BH_dYFQ&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2022-02-04T10:10:00.0000000Z"
+    }
+  ]
+}
